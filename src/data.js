@@ -1,37 +1,37 @@
 export default [
   {
     id: 1,
-    name: 'Bertie Yates',
-    age: 29,
+    name: 'Paulo Victor',
+    age: 32,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
+      'https://avatars.githubusercontent.com/u/10540844?v=4',
   },
   {
     id: 2,
-    name: 'Hester Hogan',
-    age: 32,
+    name: 'Richie Kotzen',
+    age: 51,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',
+      'http://bheventosimages.s3.amazonaws.com/system/news/images/000/022/861/interna/aa.JPG?1412963391',
   },
   {
     id: 3,
-    name: 'Larry Little',
-    age: 36,
+    name: 'Slash',
+    age: 56,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
+      'http://s2.glbimg.com/WRnN53b3HWBemA3P7k8iKTuGQLA=/290x435/s2.glbimg.com/-b1pSmVO1yvE0lbvQ7oRTOsy0-Q=/s.glbimg.com/jo/g1/f/original/2015/03/10/slash-abre.jpg',
   },
   {
     id: 4,
-    name: 'Sean Walsh',
-    age: 34,
+    name: 'John Mayer',
+    age: 43,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
+      'https://www.vagalume.com.br/dynimage/news41658-big.jpg',
   },
   {
     id: 5,
-    name: 'Lola Gardner',
-    age: 29,
+    name: 'Jerry Cantrell',
+    age: 55,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8YzzL8ApNpzOWzZ3GhJ_B8oGha3u7iyA4Jw&usqp=CAU',
   },
 ];
